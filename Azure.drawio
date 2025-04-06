@@ -108,19 +108,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MbF1hShYiQw8AQQHuiNp-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="70" width="64" height="64" as="geometry" />
+          <mxGeometry x="1582" y="60" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="MbF1hShYiQw8AQQHuiNp-26" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DNS_Private_Resolver.svg;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="284.5" width="68" height="60" as="geometry" />
+          <mxGeometry x="1582" y="274.5" width="68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MbF1hShYiQw8AQQHuiNp-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="MbF1hShYiQw8AQQHuiNp-26" target="MbF1hShYiQw8AQQHuiNp-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1052" y="480" as="sourcePoint" />
+            <mxPoint x="1102" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbF1hShYiQw8AQQHuiNp-28" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="560" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MbF1hShYiQw8AQQHuiNp-29" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="440" width="45.34" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MbF1hShYiQw8AQQHuiNp-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.883;exitY=0.356;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MbF1hShYiQw8AQQHuiNp-28" target="MbF1hShYiQw8AQQHuiNp-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="970" y="490" as="sourcePoint" />
             <mxPoint x="1020" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MbF1hShYiQw8AQQHuiNp-28" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="560" width="40" height="40" as="geometry" />
+        <mxCell id="MbF1hShYiQw8AQQHuiNp-32" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
+          <mxGeometry x="1458.67" y="291" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="MbF1hShYiQw8AQQHuiNp-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.86;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MbF1hShYiQw8AQQHuiNp-29" target="MbF1hShYiQw8AQQHuiNp-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="490" as="sourcePoint" />
+            <mxPoint x="1020" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
